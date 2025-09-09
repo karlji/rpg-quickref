@@ -31,6 +31,7 @@ function fill_section(data, parentname, type) {
 
 function init() {
     fill_section(data_index, "basic-index", "Index");
+    fill_section(data_support, "basic-support", "Support");
 }
 
 $(window).load(init);
