@@ -1,8 +1,8 @@
 data_index = [
     {
-        title: "DnD5e",
+        title: "DnD5e (2024)",
         icon: "dungeon-gate",
-        subtitle: "Dungeons and Dragons 5th Edition",
+        subtitle: "Dungeons and Dragons 5th Edition 2024",
         url: "/rpgs/dnd5/quickref.html"
     },
     {
