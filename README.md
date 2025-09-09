@@ -23,8 +23,7 @@ This project is released under the [MIT License](LICENSE).
 Original codebase by Crobi, licensed under MIT.
 
 ### Content Licensing
-- **D&D 5e (SRD 5.2)**: Content is licensed under **Creative Commons Attribution 4.0 (CC-BY-4.0)**.  
-  Required attribution example:  
+- **D&D 5e (SRD 5.2)**: Content is licensed under **Creative Commons Attribution 4.0 (CC-BY-4.0)**.
   > *Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2.1 is licensed under the Creative
 Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode*
 - **Pathfinder 2e**: Content comes from Paizo’s Open Game Content under the **ORC License**.
