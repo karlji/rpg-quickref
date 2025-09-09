@@ -39,9 +39,9 @@ This is a **fan-made tool** for personal use at the table.
 
 ## 🙌 Support
 If you find this project useful, you can support development:  
-- Ko-fi: [link here]  
-- PayPal: [link here]  
-- Patreon: [link here]  
+- Ko-fi: [[link here](https://ko-fi.com/karlji)]  
+- PayPal: [[link here](https://www.paypal.com/donate/?hosted_button_id=EJWBZ8P9AEF2S)]
+- Stripe: [[link here](https://donate.stripe.com/6oU14gbMf9rsb1f1FR0ZW00)]  
 
 ---
 
