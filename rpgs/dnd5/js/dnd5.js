@@ -64,7 +64,7 @@ function init() {
     fill_section(data_condition, "basic-conditions", "Condition");
     fill_section(data_environment_obscurance, "environment-obscurance", "Environment");
     fill_section(data_environment_light, "environment-light", "Environment");
-    fill_section(data_environment_vision, "environment-vision", "Environment");
+    fill_section(data_environment_senses, "environment-senses", "Environment");
     fill_section(data_environment_cover, "environment-cover", "Environment");
 
     var modal = document.getElementById("modal");

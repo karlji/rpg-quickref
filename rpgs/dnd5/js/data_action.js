@@ -46,7 +46,7 @@ data_action = [
     },
     {
         title: "Help",
-        icon: "handshake",
+        icon: "shaking-hands",
         subtitle: "Assist an ally",
         description: "Bolster someone else’s attempt.",
         reference: "SRD 5.2.1 — Rules Glossary: Actions (Help).",
