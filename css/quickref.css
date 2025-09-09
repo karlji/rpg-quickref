@@ -341,3 +341,34 @@ p:first-child {
     .modalsize {}
 }
 
+/* ------------------------------------------------------------------------- */
+/* Floating action button */
+/* ------------------------------------------------------------------------- */
+
+.fab-container {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: maroon;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    transition: transform 0.2s ease-in-out;
+}
+
+.fab-container:hover {
+    transform: scale(1.1);
+}
+
+.fab-icon {
+    width: 36px;
+    height: 36px;
+    color: white; /* This will make your icon white */
+    background-repeat: no-repeat;
+    background-size: contain;
+}
