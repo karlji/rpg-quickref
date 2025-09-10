@@ -187,6 +187,14 @@
     color: ForestGreen;
 }
 
+#section-skill-action, #section-skill-action .item-icon {
+    background-color: ForestGreen;
+    border-color: ForestGreen;
+}
+#section-skill-action .text {
+    color: ForestGreen;
+}
+
 
 /* ------------------------------------------------------------------------- */
 /* Page container */

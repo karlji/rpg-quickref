@@ -57,15 +57,25 @@ function fill_section(data, parentname, type) {
 }
 
 function init() {
-    fill_section(data_movement, "basic-movement", "Move");
-    fill_section(data_action, "basic-actions", "Action");
-    fill_section(data_bonusaction, "basic-bonus-actions", "Bonus action");
-    fill_section(data_reaction, "basic-reactions", "Reaction");
-    fill_section(data_condition, "basic-conditions", "Condition");
-    fill_section(data_environment_obscurance, "environment-obscurance", "Environment");
-    fill_section(data_environment_light, "environment-light", "Environment");
-    fill_section(data_environment_vision, "environment-vision", "Environment");
-    fill_section(data_environment_cover, "environment-cover", "Environment");
+    fill_section(data_action, "basic-actions", "Actions");
+    fill_section(data_skill_acrobatics, "skill-acrobatics", "Skills");
+    fill_section(data_skill_arcana, "skill-arcana", "Skills");
+    fill_section(data_skill_athletics, "skill-athletics", "Skills");
+    fill_section(data_skill_crafting, "skill-crafting", "Skills");
+    fill_section(data_skill_deception, "skill-deception", "Skills");
+    fill_section(data_skill_diplomacy, "skill-diplomacy", "Skills");
+    fill_section(data_skill_intimidation, "skill-intimidation", "Skills");
+    fill_section(data_skill_lore, "skill-lore", "Skills");
+    fill_section(data_skill_medicine, "skill-medicine", "Skills");
+    fill_section(data_skill_nature, "skill-nature", "Skills");
+    fill_section(data_skill_occultism, "skill-occultism", "Skills");
+    fill_section(data_skill_perception, "skill-perception", "Skills");
+    fill_section(data_skill_performance, "skill-performance", "Skills");
+    fill_section(data_skill_religion, "skill-religion", "Skills");
+    fill_section(data_skill_society, "skill-society", "Skills");
+    fill_section(data_skill_stealth, "skill-stealth", "Skills");
+    fill_section(data_skill_thievery, "skill-thievery", "Skills");
+    fill_section(data_skill_action, "skill-action", "Skills");
 
     var modal = document.getElementById("modal");
     modal.onclick = hide_modal;
